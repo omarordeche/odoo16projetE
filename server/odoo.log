@@ -1,0 +1,322 @@
+2024-11-19 13:36:24,642 1988 INFO ? odoo: Odoo version 16.0-20241119 
+2024-11-19 13:36:24,642 1988 INFO ? odoo: Using configuration file at E:\ODOO-GNRL\odoo16\odoo\server\odoo.conf 
+2024-11-19 13:36:24,643 1988 INFO ? odoo: addons paths: ['E:\\ODOO-GNRL\\odoo16\\odoo\\server\\odoo\\addons', 'e:\\odoo-gnrl\\odoo16\\odoo\\sessions\\addons\\16.0', 'e:\\odoo-gnrl\\odoo16\\odoo\\server\\odoo\\addons'] 
+2024-11-19 13:36:24,643 1988 INFO ? odoo: database: openpg@localhost:5432 
+2024-11-19 13:36:25,697 1988 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at wkhtmltopdf.exe 
+2024-11-19 13:36:27,073 1988 INFO ? odoo.service.server: Initiating shutdown 
+2024-11-19 13:36:27,073 1988 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-11-19 13:36:43,717 1840 INFO ? odoo: Odoo version 16.0-20241119 
+2024-11-19 13:36:43,718 1840 INFO ? odoo: Using configuration file at E:\ODOO-GNRL\odoo16\odoo\server\odoo.conf 
+2024-11-19 13:36:43,718 1840 INFO ? odoo: addons paths: ['E:\\ODOO-GNRL\\odoo16\\odoo\\server\\odoo\\addons', 'e:\\odoo-gnrl\\odoo16\\odoo\\sessions\\addons\\16.0', 'e:\\odoo-gnrl\\odoo16\\odoo\\server\\odoo\\addons'] 
+2024-11-19 13:36:43,718 1840 INFO ? odoo: database: openpg@localhost:5432 
+2024-11-19 13:36:44,269 1840 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at E:\ODOO-GNRL\odoo16\odoo\thirdparty\wkhtmltopdf.exe 
+2024-11-19 13:36:57,149 1840 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SFA0DAG:8069 
+2024-11-19 14:02:07,466 1840 INFO ? odoo.service.server: Initiating shutdown 
+2024-11-19 14:02:07,466 1840 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2024-11-19 14:02:07,557 1840 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 2 connections  
+2024-11-19 14:09:26,769 5588 INFO ? odoo: Odoo version 16.0-20241119 
+2024-11-19 14:09:26,769 5588 INFO ? odoo: Using configuration file at E:\ODOO-GNRL\odoo16\odoo\server\odoo.conf 
+2024-11-19 14:09:26,769 5588 INFO ? odoo: addons paths: ['E:\\ODOO-GNRL\\odoo16\\odoo\\server\\odoo\\addons', 'e:\\odoo-gnrl\\odoo16\\odoo\\sessions\\addons\\16.0', 'e:\\odoo-gnrl\\odoo16\\odoo\\server\\odoo\\addons'] 
+2024-11-19 14:09:26,770 5588 INFO ? odoo: database: openpg@localhost:5432 
+2024-11-19 14:09:27,074 5588 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at E:\ODOO-GNRL\odoo16\odoo\thirdparty\wkhtmltopdf.exe 
+2024-11-19 14:09:37,592 5588 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-SFA0DAG:8075 
+2024-11-19 14:09:41,950 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:41] "GET / HTTP/1.1" 303 - 1 0.005 0.129
+2024-11-19 14:09:42,129 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:42] "GET /web HTTP/1.1" 303 - 2 0.008 0.166
+2024-11-19 14:09:44,815 5588 INFO ? odoo.sql_db: ConnectionPool(used=2/count=3/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=testodoowin host=localhost port=5432 application_name=odoo-5588 sslmode=prefer' 
+2024-11-19 14:09:44,815 5588 INFO ? odoo.sql_db: ConnectionPool(used=2/count=2/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=weasydoodb host=localhost port=5432 application_name=odoo-5588 sslmode=prefer' 
+2024-11-19 14:09:44,911 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:44] "GET /web/database/selector HTTP/1.1" 200 - 6 0.016 2.761
+2024-11-19 14:09:45,844 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:45] "GET /web/static/lib/bootstrap/js/dist/dom/event-handler.js HTTP/1.1" 200 - 1 0.007 0.543
+2024-11-19 14:09:45,848 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:45] "GET /web/static/lib/bootstrap/dist/css/bootstrap.css HTTP/1.1" 200 - 1 0.006 0.551
+2024-11-19 14:09:45,853 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:45] "GET /web/static/src/libs/fontawesome/css/font-awesome.css HTTP/1.1" 200 - 1 0.006 0.557
+2024-11-19 14:09:45,855 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:45] "GET /web/static/lib/bootstrap/js/dist/dom/manipulator.js HTTP/1.1" 200 - 1 0.007 0.550
+2024-11-19 14:09:45,856 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:45] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - 1 0.006 0.558
+2024-11-19 14:09:45,858 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:45] "GET /web/static/lib/bootstrap/js/dist/dom/data.js HTTP/1.1" 200 - 1 0.005 0.560
+2024-11-19 14:09:46,569 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:46] "GET /web/static/lib/bootstrap/js/dist/base-component.js HTTP/1.1" 200 - 1 0.006 0.374
+2024-11-19 14:09:46,570 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:46] "GET /web/static/lib/bootstrap/js/dist/dom/selector-engine.js HTTP/1.1" 200 - 1 0.006 0.377
+2024-11-19 14:09:46,573 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:46] "GET /web/static/img/logo2.png HTTP/1.1" 200 - 1 0.008 0.356
+2024-11-19 14:09:46,577 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:46] "GET /web/static/lib/bootstrap/js/dist/modal.js HTTP/1.1" 200 - 1 0.006 0.381
+2024-11-19 14:09:46,579 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:46] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - 1 0.006 0.380
+2024-11-19 14:09:47,065 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:47] "GET /web/static/src/libs/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - 1 0.003 0.071
+2024-11-19 14:09:47,351 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:09:47] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - 1 0.004 0.101
+2024-11-19 14:10:07,439 5588 INFO None werkzeug: 127.0.0.1 - - [19/Nov/2024 14:10:07] "POST /web/database/change_password HTTP/1.1" 303 - 1 0.005 3.239
+2024-11-19 14:10:09,180 5588 INFO ? odoo.sql_db: ConnectionPool(used=2/count=3/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=testodoowin host=localhost port=5432 application_name=odoo-5588 sslmode=prefer' 
+2024-11-19 14:10:09,180 5588 INFO ? odoo.sql_db: ConnectionPool(used=2/count=2/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=weasydoodb host=localhost port=5432 application_name=odoo-5588 sslmode=prefer' 
+2024-11-19 14:10:09,284 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:10:09] "GET /web/database/manager HTTP/1.1" 200 - 6 0.019 1.821
+2024-11-19 14:12:04,885 5588 INFO None odoo.service.db: Create database `odoo16E`. 
+2024-11-19 14:12:07,411 5588 INFO odoo16E odoo.modules.loading: loading 1 modules... 
+2024-11-19 14:12:07,697 5588 INFO odoo16E odoo.modules.loading: Loading module base (1/1) 
+2024-11-19 14:12:07,757 5588 INFO odoo16E odoo.modules.registry: module base: creating or updating database tables 
+2024-11-19 14:12:08,920 5588 INFO odoo16E odoo.models: Prepare computation of ir.module.module.menus_by_module 
+2024-11-19 14:12:08,920 5588 INFO odoo16E odoo.models: Prepare computation of ir.module.module.reports_by_module 
+2024-11-19 14:12:08,920 5588 INFO odoo16E odoo.models: Prepare computation of ir.module.module.views_by_module 
+2024-11-19 14:12:09,373 5588 INFO odoo16E odoo.models: Prepare computation of res.partner.user_id 
+2024-11-19 14:12:09,373 5588 INFO odoo16E odoo.models: Prepare computation of res.partner.commercial_partner_id 
+2024-11-19 14:12:09,374 5588 INFO odoo16E odoo.models: Prepare computation of res.partner.display_name 
+2024-11-19 14:12:09,374 5588 INFO odoo16E odoo.models: Prepare computation of res.partner.company_registry 
+2024-11-19 14:12:09,374 5588 INFO odoo16E odoo.models: Prepare computation of res.partner.commercial_company_name 
+2024-11-19 14:12:09,374 5588 INFO odoo16E odoo.models: Prepare computation of res.partner.partner_share 
+2024-11-19 14:12:09,528 5588 INFO odoo16E odoo.models: Prepare computation of res.currency.decimal_places 
+2024-11-19 14:12:09,612 5588 INFO odoo16E odoo.models: Prepare computation of res.company.logo_web 
+2024-11-19 14:12:09,714 5588 INFO odoo16E odoo.models: Prepare computation of res.users.signature 
+2024-11-19 14:12:09,714 5588 INFO odoo16E odoo.models: Prepare computation of res.users.share 
+2024-11-19 14:12:13,302 5588 INFO odoo16E odoo.modules.loading: loading base/data/res_bank.xml 
+2024-11-19 14:12:13,313 5588 INFO odoo16E odoo.modules.loading: loading base/data/res.lang.csv 
+2024-11-19 14:12:13,397 5588 INFO odoo16E odoo.modules.loading: loading base/data/res_lang_data.xml 
+2024-11-19 14:12:13,450 5588 INFO odoo16E odoo.modules.loading: loading base/data/res_partner_data.xml 
+2024-11-19 14:12:13,569 5588 INFO odoo16E odoo.modules.loading: loading base/data/res_currency_data.xml 
+2024-11-19 14:12:14,230 5588 INFO odoo16E odoo.modules.loading: loading base/data/res_company_data.xml 
+2024-11-19 14:12:14,252 5588 INFO odoo16E odoo.modules.loading: loading base/data/res_users_data.xml 
+2024-11-19 14:12:16,679 5588 INFO odoo16E odoo.modules.loading: loading base/data/report_paperformat_data.xml 
+2024-11-19 14:12:16,698 5588 INFO odoo16E odoo.modules.loading: loading base/data/res_country_data.xml 
+2024-11-19 14:12:17,519 5588 INFO odoo16E odoo.modules.loading: loading base/data/ir_demo_data.xml 
+2024-11-19 14:12:17,538 5588 INFO odoo16E odoo.modules.loading: loading base/data/ir_config_parameter_data.xml 
+2024-11-19 14:12:17,551 5588 INFO odoo16E odoo.modules.loading: loading base/security/base_groups.xml 
+2024-11-19 14:12:17,918 5588 INFO odoo16E odoo.modules.loading: loading base/security/base_security.xml 
+2024-11-19 14:12:18,127 5588 INFO odoo16E odoo.modules.loading: loading base/views/base_menus.xml 
+2024-11-19 14:12:18,275 5588 INFO odoo16E odoo.modules.loading: loading base/views/decimal_precision_views.xml 
+2024-11-19 14:12:18,302 5588 INFO odoo16E odoo.modules.loading: loading base/views/res_config_views.xml 
+2024-11-19 14:12:18,316 5588 INFO odoo16E odoo.modules.loading: loading base/data/res.country.state.csv 
+2024-11-19 14:12:19,999 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_actions_views.xml 
+2024-11-19 14:12:20,218 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_asset_views.xml 
+2024-11-19 14:12:20,251 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_config_parameter_views.xml 
+2024-11-19 14:12:20,284 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_cron_views.xml 
+2024-11-19 14:12:20,341 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_cron_trigger_views.xml 
+2024-11-19 14:12:20,374 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_filters_views.xml 
+2024-11-19 14:12:20,413 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_mail_server_views.xml 
+2024-11-19 14:12:20,456 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_model_views.xml 
+2024-11-19 14:12:20,722 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_attachment_views.xml 
+2024-11-19 14:12:20,761 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_rule_views.xml 
+2024-11-19 14:12:20,808 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_sequence_views.xml 
+2024-11-19 14:12:20,847 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_ui_menu_views.xml 
+2024-11-19 14:12:20,889 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_ui_view_views.xml 
+2024-11-19 14:12:20,978 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_default_views.xml 
+2024-11-19 14:12:21,012 5588 INFO odoo16E odoo.modules.loading: loading base/data/ir_cron_data.xml 
+2024-11-19 14:12:21,023 5588 INFO odoo16E odoo.modules.loading: loading base/report/ir_model_report.xml 
+2024-11-19 14:12:21,031 5588 INFO odoo16E odoo.modules.loading: loading base/report/ir_model_templates.xml 
+2024-11-19 14:12:21,043 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_logging_views.xml 
+2024-11-19 14:12:21,077 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_qweb_widget_templates.xml 
+2024-11-19 14:12:21,092 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_module_views.xml 
+2024-11-19 14:12:21,210 5588 INFO odoo16E odoo.modules.loading: loading base/data/ir_module_category_data.xml 
+2024-11-19 14:12:21,329 5588 INFO odoo16E odoo.modules.loading: loading base/data/ir_module_module.xml 
+2024-11-19 14:12:21,447 5588 INFO odoo16E odoo.modules.loading: loading base/report/ir_module_reports.xml 
+2024-11-19 14:12:21,454 5588 INFO odoo16E odoo.modules.loading: loading base/report/ir_module_report_templates.xml 
+2024-11-19 14:12:21,465 5588 INFO odoo16E odoo.modules.loading: loading base/wizard/base_module_update_views.xml 
+2024-11-19 14:12:21,484 5588 INFO odoo16E odoo.modules.loading: loading base/wizard/base_language_install_views.xml 
+2024-11-19 14:12:21,505 5588 INFO odoo16E odoo.modules.loading: loading base/wizard/base_import_language_views.xml 
+2024-11-19 14:12:21,526 5588 INFO odoo16E odoo.modules.loading: loading base/wizard/base_module_upgrade_views.xml 
+2024-11-19 14:12:21,559 5588 INFO odoo16E odoo.modules.loading: loading base/wizard/base_module_uninstall_views.xml 
+2024-11-19 14:12:21,572 5588 INFO odoo16E odoo.modules.loading: loading base/wizard/base_export_language_views.xml 
+2024-11-19 14:12:21,594 5588 INFO odoo16E odoo.modules.loading: loading base/wizard/base_partner_merge_views.xml 
+2024-11-19 14:12:21,623 5588 INFO odoo16E odoo.modules.loading: loading base/data/ir_actions_data.xml 
+2024-11-19 14:12:21,631 5588 INFO odoo16E odoo.modules.loading: loading base/data/ir_demo_failure_data.xml 
+2024-11-19 14:12:21,656 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_profile_views.xml 
+2024-11-19 14:12:21,697 5588 INFO odoo16E odoo.modules.loading: loading base/views/res_company_views.xml 
+2024-11-19 14:12:21,739 5588 INFO odoo16E odoo.modules.loading: loading base/views/res_lang_views.xml 
+2024-11-19 14:12:21,779 5588 INFO odoo16E odoo.modules.loading: loading base/views/res_partner_views.xml 
+2024-11-19 14:12:21,990 5588 INFO odoo16E odoo.modules.loading: loading base/views/res_bank_views.xml 
+2024-11-19 14:12:22,048 5588 INFO odoo16E odoo.modules.loading: loading base/views/res_country_views.xml 
+2024-11-19 14:12:22,111 5588 INFO odoo16E odoo.modules.loading: loading base/views/res_currency_views.xml 
+2024-11-19 14:12:22,173 5588 INFO odoo16E odoo.modules.loading: loading base/views/res_users_views.xml 
+2024-11-19 14:12:22,370 5588 INFO odoo16E odoo.modules.loading: loading base/views/ir_property_views.xml 
+2024-11-19 14:12:22,405 5588 INFO odoo16E odoo.modules.loading: loading base/views/res_config_settings_views.xml 
+2024-11-19 14:12:22,416 5588 INFO odoo16E odoo.modules.loading: loading base/views/report_paperformat_views.xml 
+2024-11-19 14:12:22,461 5588 INFO odoo16E odoo.modules.loading: loading base/views/onboarding_views.xml 
+2024-11-19 14:12:22,499 5588 INFO odoo16E odoo.modules.loading: loading base/security/ir.model.access.csv 
+2024-11-19 14:12:22,719 5588 INFO odoo16E odoo.addons.base.models.ir_module: module base: loading translation file fr for language fr_FR 
+2024-11-19 14:12:24,215 5588 INFO odoo16E odoo.modules.loading: Module base loaded in 16.52s, 7924 queries (+7925 other) 
+2024-11-19 14:12:24,215 5588 INFO odoo16E odoo.modules.loading: 1 modules loaded in 16.52s, 7924 queries (+7925 extra) 
+2024-11-19 14:12:24,267 5588 INFO odoo16E odoo.addons.base.models.ir_module: module base: loading translation file fr for language fr_FR 
+2024-11-19 14:12:25,691 5588 INFO odoo16E odoo.modules.loading: updating modules list 
+2024-11-19 14:12:25,692 5588 INFO odoo16E odoo.addons.base.models.ir_module: ALLOW access to module.update_list on [] to user __system__ #1 via n/a 
+2024-11-19 14:12:26,890 5588 INFO odoo16E odoo.modules.loading: loading 8 modules... 
+2024-11-19 14:12:26,890 5588 INFO odoo16E odoo.modules.loading: Loading module web (2/8) 
+2024-11-19 14:12:26,930 5588 INFO odoo16E odoo.modules.registry: module web: creating or updating database tables 
+2024-11-19 14:12:27,030 5588 INFO None odoo.service.db: Create database `odoo16E`. 
+2024-11-19 14:12:27,120 5588 ERROR None odoo.addons.web.controllers.database: Database creation error. 
+Traceback (most recent call last):
+  File "E:\ODOO-GNRL\odoo16\odoo\server\odoo\addons\web\controllers\database.py", line 81, in create
+    dispatch_rpc('db', 'create_database', [master_pwd, name, bool(post.get('demo')), lang, password, post['login'], country_code, post['phone']])
+  File "E:\ODOO-GNRL\odoo16\odoo\server\odoo\http.py", line 369, in dispatch_rpc
+    return dispatch(method, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\ODOO-GNRL\odoo16\odoo\server\odoo\service\db.py", line 480, in dispatch
+    return g[exp_method_name](*params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<decorator-gen-20>", line 2, in exp_create_database
+  File "E:\ODOO-GNRL\odoo16\odoo\server\odoo\service\db.py", line 43, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\ODOO-GNRL\odoo16\odoo\server\odoo\service\db.py", line 140, in exp_create_database
+    _create_empty_database(db_name)
+  File "E:\ODOO-GNRL\odoo16\odoo\server\odoo\service\db.py", line 106, in _create_empty_database
+    raise DatabaseExists("database %r already exists!" % (name,))
+odoo.service.db.DatabaseExists: database 'odoo16E' already exists!
+2024-11-19 14:12:27,963 5588 INFO odoo16E odoo.modules.loading: loading web/security/ir.model.access.csv 
+2024-11-19 14:12:27,980 5588 INFO odoo16E odoo.modules.loading: loading web/views/webclient_templates.xml 
+2024-11-19 14:12:28,081 5588 INFO odoo16E odoo.modules.loading: loading web/views/report_templates.xml 
+2024-11-19 14:12:28,253 5588 INFO odoo16E odoo.modules.loading: loading web/views/base_document_layout_views.xml 
+2024-11-19 14:12:28,278 5588 INFO odoo16E odoo.modules.loading: loading web/views/speedscope_template.xml 
+2024-11-19 14:12:28,289 5588 INFO odoo16E odoo.modules.loading: loading web/views/lazy_assets.xml 
+2024-11-19 14:12:28,301 5588 INFO odoo16E odoo.modules.loading: loading web/views/neutralize_views.xml 
+2024-11-19 14:12:28,312 5588 INFO odoo16E odoo.modules.loading: loading web/data/ir_attachment.xml 
+2024-11-19 14:12:28,323 5588 INFO odoo16E odoo.modules.loading: loading web/data/report_layout.xml 
+2024-11-19 14:12:28,393 5588 INFO odoo16E odoo.addons.base.models.ir_module: module web: loading translation file fr for language fr_FR 
+2024-11-19 14:12:28,550 5588 INFO odoo16E odoo.modules.loading: Module web loaded in 1.66s, 891 queries (+892 other) 
+2024-11-19 14:12:28,550 5588 INFO odoo16E odoo.modules.loading: Loading module auth_totp (3/8) 
+2024-11-19 14:12:28,646 5588 INFO odoo16E odoo.modules.registry: module auth_totp: creating or updating database tables 
+2024-11-19 14:12:28,810 5588 INFO odoo16E odoo.modules.loading: loading auth_totp/security/security.xml 
+2024-11-19 14:12:28,869 5588 INFO odoo16E odoo.modules.loading: loading auth_totp/security/ir.model.access.csv 
+2024-11-19 14:12:28,891 5588 INFO odoo16E odoo.modules.loading: loading auth_totp/data/ir_action_data.xml 
+2024-11-19 14:12:28,904 5588 INFO odoo16E odoo.modules.loading: loading auth_totp/views/res_users_views.xml 
+2024-11-19 14:12:28,961 5588 INFO odoo16E odoo.modules.loading: loading auth_totp/views/templates.xml 
+2024-11-19 14:12:28,976 5588 INFO odoo16E odoo.modules.loading: loading auth_totp/wizard/auth_totp_wizard_views.xml 
+2024-11-19 14:12:28,996 5588 INFO odoo16E odoo.addons.base.models.ir_module: module auth_totp: loading translation file fr for language fr_FR 
+2024-11-19 14:12:29,047 5588 INFO odoo16E odoo.modules.loading: Module auth_totp loaded in 0.50s, 181 queries (+185 other) 
+2024-11-19 14:12:29,047 5588 INFO odoo16E odoo.modules.loading: Loading module base_import (4/8) 
+2024-11-19 14:12:29,145 5588 INFO odoo16E odoo.modules.registry: module base_import: creating or updating database tables 
+2024-11-19 14:12:29,153 5588 INFO None odoo.sql_db: ConnectionPool(used=3/count=5/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=testodoowin host=localhost port=5432 application_name=odoo-5588 sslmode=prefer' 
+2024-11-19 14:12:29,154 5588 INFO None odoo.sql_db: ConnectionPool(used=3/count=4/max=64): Closed 1 connections to 'user=openpg password=xxx dbname=weasydoodb host=localhost port=5432 application_name=odoo-5588 sslmode=prefer' 
+2024-11-19 14:12:29,250 5588 INFO None werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:29] "POST /web/database/create HTTP/1.1" 200 - 9 0.036 5.437
+2024-11-19 14:12:31,037 5588 INFO odoo16E odoo.modules.loading: loading base_import/security/ir.model.access.csv 
+2024-11-19 14:12:31,089 5588 INFO odoo16E odoo.addons.base.models.ir_module: module base_import: loading translation file fr for language fr_FR 
+2024-11-19 14:12:31,155 5588 INFO odoo16E odoo.modules.loading: Module base_import loaded in 2.11s, 895 queries (+898 other) 
+2024-11-19 14:12:31,155 5588 INFO odoo16E odoo.modules.loading: Loading module bus (5/8) 
+2024-11-19 14:12:31,236 5588 INFO odoo16E odoo.modules.registry: module bus: creating or updating database tables 
+2024-11-19 14:12:31,401 5588 INFO odoo16E odoo.modules.loading: loading bus/security/ir.model.access.csv 
+2024-11-19 14:12:31,425 5588 INFO odoo16E odoo.addons.base.models.ir_module: module bus: loading translation file fr for language fr_FR 
+2024-11-19 14:12:31,447 5588 INFO odoo16E odoo.modules.loading: Module bus loaded in 0.29s, 107 queries (+107 other) 
+2024-11-19 14:12:31,447 5588 INFO odoo16E odoo.modules.loading: Loading module web_kanban_gauge (6/8) 
+2024-11-19 14:12:31,488 5588 INFO odoo16E odoo.addons.base.models.ir_module: module web_kanban_gauge: loading translation file fr for language fr_FR 
+2024-11-19 14:12:31,502 5588 INFO odoo16E odoo.modules.loading: Module web_kanban_gauge loaded in 0.06s, 13 queries (+13 other) 
+2024-11-19 14:12:31,502 5588 INFO odoo16E odoo.modules.loading: Loading module web_tour (7/8) 
+2024-11-19 14:12:31,539 5588 INFO odoo16E odoo.modules.registry: module web_tour: creating or updating database tables 
+2024-11-19 14:12:31,615 5588 INFO odoo16E odoo.modules.loading: loading web_tour/security/ir.model.access.csv 
+2024-11-19 14:12:31,635 5588 INFO odoo16E odoo.modules.loading: loading web_tour/security/ir.rule.csv 
+2024-11-19 14:12:31,653 5588 INFO odoo16E odoo.modules.loading: loading web_tour/views/tour_views.xml 
+2024-11-19 14:12:31,695 5588 INFO odoo16E odoo.addons.base.models.ir_module: module web_tour: loading translation file fr for language fr_FR 
+2024-11-19 14:12:31,725 5588 INFO odoo16E odoo.modules.loading: Module web_tour loaded in 0.22s, 108 queries (+108 other) 
+2024-11-19 14:12:31,725 5588 INFO odoo16E odoo.modules.loading: Loading module web_editor (8/8) 
+2024-11-19 14:12:31,929 5588 INFO odoo16E odoo.modules.registry: module web_editor: creating or updating database tables 
+2024-11-19 14:12:33,305 5588 INFO odoo16E odoo.modules.loading: loading web_editor/security/ir.model.access.csv 
+2024-11-19 14:12:33,320 5588 INFO odoo16E odoo.modules.loading: loading web_editor/data/editor_assets.xml 
+2024-11-19 14:12:33,328 5588 INFO odoo16E odoo.modules.loading: loading web_editor/views/editor.xml 
+2024-11-19 14:12:33,367 5588 INFO odoo16E odoo.modules.loading: loading web_editor/views/snippets.xml 
+2024-11-19 14:12:33,428 5588 INFO odoo16E odoo.addons.base.models.ir_module: module web_editor: loading translation file fr for language fr_FR 
+2024-11-19 14:12:33,512 5588 INFO odoo16E odoo.modules.loading: Module web_editor loaded in 1.79s, 827 queries (+827 other) 
+2024-11-19 14:12:33,513 5588 INFO odoo16E odoo.modules.loading: 8 modules loaded in 6.62s, 3022 queries (+3030 extra) 
+2024-11-19 14:12:33,904 5588 INFO odoo16E odoo.modules.loading: Modules loaded. 
+2024-11-19 14:12:33,907 5588 INFO odoo16E odoo.modules.registry: Registry loaded in 26.515s 
+2024-11-19 14:12:33,915 5588 INFO odoo16E odoo.addons.base.models.ir_module: module base: loading translation file fr for language fr_FR 
+2024-11-19 14:12:34,437 5588 INFO odoo16E odoo.addons.base.models.ir_module: module web: loading translation file fr for language fr_FR 
+2024-11-19 14:12:34,507 5588 INFO odoo16E odoo.addons.base.models.ir_module: module auth_totp: loading translation file fr for language fr_FR 
+2024-11-19 14:12:34,514 5588 INFO odoo16E odoo.addons.base.models.ir_module: module base_import: loading translation file fr for language fr_FR 
+2024-11-19 14:12:34,529 5588 INFO odoo16E odoo.addons.base.models.ir_module: module bus: loading translation file fr for language fr_FR 
+2024-11-19 14:12:34,533 5588 INFO odoo16E odoo.addons.base.models.ir_module: module web_editor: loading translation file fr for language fr_FR 
+2024-11-19 14:12:34,571 5588 INFO odoo16E odoo.addons.base.models.ir_module: module web_kanban_gauge: loading translation file fr for language fr_FR 
+2024-11-19 14:12:34,574 5588 INFO odoo16E odoo.addons.base.models.ir_module: module web_tour: loading translation file fr for language fr_FR 
+2024-11-19 14:12:37,854 5588 INFO odoo16E odoo.addons.base.models.res_users: Login successful for db:odoo16E login:omarordeche1997@gmail.com from 127.0.0.1 
+2024-11-19 14:12:37,868 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:37] "POST /web/database/create HTTP/1.1" 303 - 16043 18.000 18.050
+2024-11-19 14:12:41,706 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:41] "GET /web?db=odoo16E HTTP/1.1" 302 - 1 0.004 0.082
+2024-11-19 14:12:41,944 5588 INFO odoo16E odoo.addons.base.models.ir_http: Generating routing map for key None 
+2024-11-19 14:12:42,206 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:42] "GET /web?db=odoo16E HTTP/1.1" 303 - 5 0.007 0.262
+2024-11-19 14:12:42,940 5588 INFO odoo16E odoo.addons.base.models.assetsbundle: Failed to find attachment for assets /web/assets/%-1d01bf6/web.assets_frontend.min.css 
+2024-11-19 14:12:50,293 5588 INFO odoo16E odoo.addons.base.models.assetsbundle: Failed to find attachment for assets /web/assets/%-7c7108d/web.assets_frontend_minimal.min.js 
+2024-11-19 14:12:50,594 5588 INFO odoo16E odoo.addons.base.models.assetsbundle: Failed to find attachment for assets /web/assets/%-a952b35/web.assets_frontend_lazy.min.js 
+2024-11-19 14:12:52,188 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:52] "GET /web/login HTTP/1.1" 200 - 66 0.076 9.593
+2024-11-19 14:12:52,241 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:52] "GET /web/assets/15-1d01bf6/web.assets_frontend.min.css HTTP/1.1" 200 - 6 0.003 0.009
+2024-11-19 14:12:52,549 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:52] "GET /web/binary/company_logo HTTP/1.1" 200 - 2 0.003 0.007
+2024-11-19 14:12:52,574 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:52] "GET /web/assets/16-7c7108d/web.assets_frontend_minimal.min.js HTTP/1.1" 200 - 5 0.004 0.013
+2024-11-19 14:12:52,910 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:52] "GET /web/assets/17-a952b35/web.assets_frontend_lazy.min.js HTTP/1.1" 200 - 5 0.004 0.003
+2024-11-19 14:12:53,535 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:53] "GET /web/webclient/locale/fr_FR HTTP/1.1" 200 - 1 0.000 0.045
+2024-11-19 14:12:53,951 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:53] "GET /web/webclient/translations/1732025573120 HTTP/1.1" 200 - 3 0.003 0.790
+2024-11-19 14:12:54,036 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:12:54] "GET /web/webclient/translations/1732025574025 HTTP/1.1" 200 - 3 0.001 0.008
+2024-11-19 14:13:14,299 5588 INFO odoo16E odoo.addons.base.models.res_users: Login successful for db:odoo16E login:omarordeche1997@gmail.com from 127.0.0.1 
+2024-11-19 14:13:14,310 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:14] "POST /web/login HTTP/1.1" 303 - 24 0.025 1.724
+2024-11-19 14:13:14,664 5588 INFO odoo16E odoo.addons.base.models.assetsbundle: Failed to find attachment for assets /web/assets/%-07da0a9/web.assets_common.min.css 
+2024-11-19 14:13:16,122 5588 INFO odoo16E odoo.addons.base.models.assetsbundle: Failed to find attachment for assets /web/assets/%-fff3540/web.assets_backend.min.css 
+2024-11-19 14:13:31,433 5588 INFO odoo16E odoo.addons.base.models.ir_cron: Starting job `Base: Auto-vacuum internal data`. 
+2024-11-19 14:13:31,522 5588 INFO odoo16E odoo.addons.base.models.assetsbundle: Failed to find attachment for assets /web/assets/%-07da0a9/web.assets_common.min.js 
+2024-11-19 14:13:33,259 5588 INFO odoo16E odoo.addons.base.models.assetsbundle: Failed to find attachment for assets /web/assets/%-fff3540/web.assets_backend.min.js 
+2024-11-19 14:13:37,202 5588 INFO odoo16E odoo.addons.base.models.assetsbundle: Failed to find attachment for assets /web/assets/%-5edfc86/web.assets_backend_prod_only.min.js 
+2024-11-19 14:13:37,241 5588 INFO odoo16E odoo.addons.base.models.ir_attachment: filestore gc 19 checked, 0 removed 
+2024-11-19 14:13:37,375 5588 INFO odoo16E odoo.addons.base.models.res_users: GC'd 1 user log entries 
+2024-11-19 14:13:37,423 5588 INFO odoo16E odoo.addons.auth_totp.models.auth_totp: GC'd 0 totp devices entries 
+2024-11-19 14:13:37,455 5588 INFO odoo16E odoo.addons.base.models.ir_cron: Job `Base: Auto-vacuum internal data` done. 
+2024-11-19 14:13:37,612 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:37] "GET /web HTTP/1.1" 200 - 94 0.142 23.153
+2024-11-19 14:13:37,694 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:37] "GET /web/assets/18-07da0a9/web.assets_common.min.css HTTP/1.1" 200 - 4 0.003 0.016
+2024-11-19 14:13:38,100 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:38] "GET /web/assets/20-07da0a9/web.assets_common.min.js HTTP/1.1" 200 - 4 0.007 0.101
+2024-11-19 14:13:38,101 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:38] "GET /web/assets/21-fff3540/web.assets_backend.min.js HTTP/1.1" 200 - 4 0.007 0.101
+2024-11-19 14:13:38,110 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:38] "GET /web/webclient/load_menus/a4b14bbc8a54ce712b5072351ca612b5dc896ee6acb8ecf0dfa99a0b299a2eb9 HTTP/1.1" 200 - 1 0.001 0.110
+2024-11-19 14:13:38,117 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:38] "GET /web/assets/22-5edfc86/web.assets_backend_prod_only.min.js HTTP/1.1" 200 - 4 0.012 0.112
+2024-11-19 14:13:38,120 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:38] "GET /web/assets/19-fff3540/web.assets_backend.min.css HTTP/1.1" 200 - 4 0.010 0.118
+2024-11-19 14:13:38,126 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:38] "GET /web/webclient/translations/5c0fa2ad43b56814d9c3c7492566a46819c0ac07?lang=fr_FR HTTP/1.1" 200 - 3 0.011 0.103
+2024-11-19 14:13:39,229 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:39] "GET /web/static/lib/odoo_ui_icons/fonts/odoo_ui_icons.woff2 HTTP/1.1" 200 - 0 0.000 0.003
+2024-11-19 14:13:39,357 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:39] "GET /web/image?model=res.users&field=avatar_128&id=2 HTTP/1.1" 200 - 9 0.023 0.012
+2024-11-19 14:13:39,359 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:39] "POST /web/action/load HTTP/1.1" 200 - 11 0.019 0.019
+2024-11-19 14:13:39,365 5588 INFO odoo16E odoo.addons.base.models.assetsbundle: Failed to find attachment for assets /web/assets/%-745708b/bus.websocket_worker_assets.min.js 
+2024-11-19 14:13:39,430 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:39] "GET /bus/websocket_worker_bundle?v=1.0.5 HTTP/1.1" 200 - 9 0.020 0.071
+2024-11-19 14:13:39,597 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:39] "POST /web/dataset/call_kw/ir.module.module/get_views HTTP/1.1" 200 - 43 0.060 0.058
+2024-11-19 14:13:39,706 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:39] "GET /web/image/res.company/1/favicon HTTP/1.1" 200 - 10 0.010 0.008
+2024-11-19 14:13:39,795 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:39] "GET /websocket HTTP/1.1" 101 - 1 0.001 0.007
+2024-11-19 14:13:39,804 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:39] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 41 0.039 0.014
+2024-11-19 14:13:39,805 5588 INFO ? odoo.addons.bus.models.bus: Bus.loop listen imbus on db postgres 
+2024-11-19 14:13:39,953 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:39] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.005 0.006
+2024-11-19 14:13:40,212 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /sale_management/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.004
+2024-11-19 14:13:40,539 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /base/static/img/icons/timesheet_grid.png HTTP/1.1" 200 - 0 0.000 0.013
+2024-11-19 14:13:40,541 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /point_of_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2024-11-19 14:13:40,542 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /mass_mailing/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2024-11-19 14:13:40,545 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /project/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.020
+2024-11-19 14:13:40,545 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /purchase/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.016
+2024-11-19 14:13:40,550 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /base/static/img/icons/knowledge.png HTTP/1.1" 200 - 0 0.000 0.015
+2024-11-19 14:13:40,881 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /account/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2024-11-19 14:13:40,881 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /mrp/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.016
+2024-11-19 14:13:40,882 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /crm/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2024-11-19 14:13:40,885 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /website_sale/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.019
+2024-11-19 14:13:40,888 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /base/static/img/icons/mrp_workorder.png HTTP/1.1" 200 - 0 0.000 0.019
+2024-11-19 14:13:40,892 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:40] "GET /website/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.015
+2024-11-19 14:13:41,203 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /base/static/img/icons/account_accountant.png HTTP/1.1" 200 - 0 0.000 0.006
+2024-11-19 14:13:41,204 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /stock/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.008
+2024-11-19 14:13:41,206 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /hr_expense/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2024-11-19 14:13:41,213 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /base/static/img/icons/web_studio.png HTTP/1.1" 200 - 0 0.000 0.006
+2024-11-19 14:13:41,233 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /hr_holidays/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2024-11-19 14:13:41,236 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /hr_recruitment/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2024-11-19 14:13:41,540 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /hr/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2024-11-19 14:13:41,542 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /base/static/img/icons/industry_fsm.png HTTP/1.1" 200 - 0 0.000 0.010
+2024-11-19 14:13:41,543 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /data_recycle/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.009
+2024-11-19 14:13:41,549 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /maintenance/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.014
+2024-11-19 14:13:41,554 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /base/static/img/icons/sign.png HTTP/1.1" 200 - 0 0.000 0.008
+2024-11-19 14:13:41,556 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /base/static/img/icons/helpdesk.png HTTP/1.1" 200 - 0 0.000 0.006
+2024-11-19 14:13:41,881 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /website_event/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.010
+2024-11-19 14:13:41,882 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /base/static/img/icons/sale_subscription.png HTTP/1.1" 200 - 0 0.000 0.014
+2024-11-19 14:13:41,882 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /base/static/img/icons/quality_control.png HTTP/1.1" 200 - 0 0.000 0.013
+2024-11-19 14:13:41,885 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /website_slides/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.015
+2024-11-19 14:13:41,887 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /base/static/img/icons/planning.png HTTP/1.1" 200 - 0 0.000 0.017
+2024-11-19 14:13:41,890 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:41] "GET /mail/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.017
+2024-11-19 14:13:42,214 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /base/static/img/icons/hr_appraisal.png HTTP/1.1" 200 - 0 0.000 0.007
+2024-11-19 14:13:42,216 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /calendar/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.010
+2024-11-19 14:13:42,218 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /contacts/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.015
+2024-11-19 14:13:42,221 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /base/static/img/icons/social.png HTTP/1.1" 200 - 0 0.000 0.017
+2024-11-19 14:13:42,224 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /base/static/img/icons/mrp_plm.png HTTP/1.1" 200 - 0 0.000 0.019
+2024-11-19 14:13:42,227 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /fleet/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.018
+2024-11-19 14:13:42,544 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /base/static/img/icons/marketing_automation.png HTTP/1.1" 200 - 0 0.000 0.009
+2024-11-19 14:13:42,544 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /im_livechat/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.008
+2024-11-19 14:13:42,546 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /base/static/img/icons/appointment.png HTTP/1.1" 200 - 0 0.000 0.010
+2024-11-19 14:13:42,552 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /survey/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.012
+2024-11-19 14:13:42,560 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /base/static/img/icons/web_mobile.png HTTP/1.1" 200 - 0 0.000 0.010
+2024-11-19 14:13:42,563 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /repair/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2024-11-19 14:13:42,887 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /base/static/img/icons/stock_barcode.png HTTP/1.1" 200 - 0 0.000 0.012
+2024-11-19 14:13:42,891 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /hr_attendance/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.018
+2024-11-19 14:13:42,893 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /mass_mailing_sms/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.019
+2024-11-19 14:13:42,897 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /note/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.022
+2024-11-19 14:13:42,901 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /hr_skills/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.021
+2024-11-19 14:13:42,903 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:42] "GET /base/static/img/icons/voip.png HTTP/1.1" 200 - 0 0.000 0.017
+2024-11-19 14:13:43,205 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:43] "GET /lunch/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.002
+2024-11-19 14:13:43,215 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:43] "GET /website_hr_recruitment/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2024-11-19 14:13:43,220 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:43] "GET /hr_contract/static/description/icon.png HTTP/1.1" 200 - 0 0.000 0.007
+2024-11-19 14:13:43,221 5588 INFO ? werkzeug: 127.0.0.1 - - [19/Nov/2024 14:13:43] "GET /base/static/img/icons/sale_ebay.png HTTP/1.1" 200 - 0 0.000 0.010
+2024-11-19 14:15:40,634 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:15:40] "POST /web/dataset/call_kw/ir.module.module/search_panel_select_range HTTP/1.1" 200 - 37 0.023 0.016
+2024-11-19 14:15:40,785 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:15:40] "POST /web/dataset/call_kw/ir.module.module/web_search_read HTTP/1.1" 200 - 3 0.006 0.009
+2024-11-19 14:15:43,338 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:15:43] "POST /web/action/load HTTP/1.1" 200 - 25 0.016 0.029
+2024-11-19 14:15:45,034 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:15:45] "POST /web/dataset/call_kw/res.users/get_views HTTP/1.1" 200 - 45 0.034 0.062
+2024-11-19 14:15:45,212 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:15:45] "POST /web/dataset/call_kw/res.users/web_search_read HTTP/1.1" 200 - 13 0.009 0.012
+2024-11-19 14:15:45,371 5588 INFO odoo16E werkzeug: 127.0.0.1 - - [19/Nov/2024 14:15:45] "POST /web/dataset/call_kw/res.users/has_group HTTP/1.1" 200 - 2 0.002 0.003
